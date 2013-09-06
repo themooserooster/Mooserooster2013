@@ -1,0 +1,1224 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"K",
+				"KITTEH_SOURCE"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"r",
+				"rgb()"
+			],
+			[
+				"t",
+				"transparent"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"St",
+				"startY"
+			],
+			[
+				"st",
+				"startY"
+			],
+			[
+				"or",
+				"originY"
+			],
+			[
+				"ori",
+				"originX"
+			],
+			[
+				"se",
+				"_self"
+			],
+			[
+				"g",
+				"gravity"
+			],
+			[
+				"kit",
+				"kittyImage"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"start",
+				"startY"
+			],
+			[
+				"sta",
+				"startX"
+			],
+			[
+				"v",
+				"velocityY"
+			],
+			[
+				"mo",
+				"moveBox"
+			],
+			[
+				"req",
+				"requestAnimationFrame"
+			],
+			[
+				"ct",
+				"ctx"
+			],
+			[
+				"my",
+				"myObject"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"html",
+				"html	html"
+			],
+			[
+				"m",
+				"meta	Tag"
+			],
+			[
+				"sc",
+				"script	Tag"
+			],
+			[
+				"joh",
+				"johnSays"
+			],
+			[
+				"jo",
+				"john"
+			],
+			[
+				"re",
+				"renderLoop"
+			],
+			[
+				"sp",
+				"sphereMaterial"
+			],
+			[
+				"c",
+				"container"
+			],
+			[
+				"n",
+				"NEAR"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"s",
+				"sans-serif"
+			],
+			[
+				"a",
+				"amountSpent"
+			],
+			[
+				"level",
+				"_levelIndicator"
+			],
+			[
+				"si",
+				"sizeMeterBar"
+			],
+			[
+				"user",
+				"userLevel"
+			],
+			[
+				"l",
+				"_levelIcon"
+			],
+			[
+				"us",
+				"userLevel"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"use",
+				"user-levels-widget"
+			],
+			[
+				"f",
+				"f	Anonymous Function"
+			],
+			[
+				"bill",
+				"billingZip"
+			],
+			[
+				"shipp",
+				"shippingZip"
+			],
+			[
+				"all",
+				"allRules"
+			],
+			[
+				"va",
+				"validationEngineLanguage"
+			],
+			[
+				"billing",
+				"billingZip"
+			],
+			[
+				"bi",
+				"billingStateTxt"
+			],
+			[
+				"shi",
+				"shippingState"
+			],
+			[
+				"shii",
+				"shippingCity"
+			],
+			[
+				"sele",
+				"selectedCountryCode"
+			],
+			[
+				"sh",
+				"shippingCountry"
+			],
+			[
+				"fie",
+				"fieldId"
+			],
+			[
+				"step",
+				"step4"
+			],
+			[
+				"ste",
+				"step4"
+			],
+			[
+				"add",
+				"add-items-caption"
+			],
+			[
+				"che",
+				"checkoutprocess2"
+			],
+			[
+				"Step",
+				"step2"
+			],
+			[
+				"brazil",
+				"brazilInfo"
+			],
+			[
+				"braz",
+				"divBrazilInfo"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"Shi",
+				"shippingZip"
+			],
+			[
+				"Shii",
+				"ShippingAddress"
+			],
+			[
+				"is",
+				"isNoZipCountry"
+			],
+			[
+				"Shipping",
+				"ShippingAddress"
+			],
+			[
+				"fil",
+				"fieldset"
+			],
+			[
+				"Sh",
+				"ShippingCountry"
+			],
+			[
+				"fi",
+				"field"
+			],
+			[
+				"pass",
+				"passConfirm"
+			],
+			[
+				"Con",
+				"ConfirmPassword"
+			],
+			[
+				"Per",
+				"PersonalInfo"
+			],
+			[
+				"passwords",
+				"passwordsMatch"
+			],
+			[
+				"rm",
+				"removeClass"
+			],
+			[
+				"val",
+				"validate"
+			],
+			[
+				"pho",
+				"Phone"
+			],
+			[
+				"chk",
+				"chkShip"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"ch",
+				"checked"
+			],
+			[
+				"bii",
+				"billingState"
+			],
+			[
+				"shipping",
+				"shippingCity"
+			],
+			[
+				"shippinC",
+				"shippingCountry"
+			],
+			[
+				"C",
+				"ChkShip"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"j",
+				"jQuery"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"I",
+				"italic"
+			],
+			[
+				"ini",
+				"initialize"
+			],
+			[
+				"Ass",
+				"AssetTypeId"
+			],
+			[
+				"T",
+				"TemplateManagement"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 808,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/index.coffee",
+			"settings":
+			{
+				"buffer_size": 213,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/main.scss",
+			"settings":
+			{
+				"buffer_size": 1651,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "experiments.html",
+			"settings":
+			{
+				"buffer_size": 201,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/experiments.js",
+			"settings":
+			{
+				"buffer_size": 32,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "3dtest.html",
+			"settings":
+			{
+				"buffer_size": 382,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/fountain.js",
+			"settings":
+			{
+				"buffer_size": 1384,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "fountain.html",
+			"settings":
+			{
+				"buffer_size": 580,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "This is the buildsystem for the OpenWrt Linux distribution.\n\nPlease use \"make menuconfig\" to configure your appreciated\nconfiguration for the toolchain and firmware.\n\nYou need to have installed gcc, binutils, patch, bzip2, flex,\nmake, gettext, pkg-config, unzip, libz-dev and libc headers.\n\nRun \"./scripts/feeds update\" to get the latest package definitions\ndefined in feeds.conf / feeds.conf.default respectively\nand \"./scripts/feeds install\" to install symlinks into \"package/feeds/*\".\n\nUse \"make menuconfig\" to configure your image.\n\nSimply running \"make\" will build your firmware.\nIt will download all sources, build the cross-compile toolchain, \nthe kernel and all choosen applications.\n\nYou can use \"scripts/flashing/flash.sh\" for remotely updating your embedded\nsystem via tftp.\n\nThe OpenWrt system is documented in docs/. You will need a LaTeX distribution\nand the tex4ht package to build the documentation. Type \"make -C docs/\" to build it.\n\nTo build your own firmware you need to have access to a Linux, BSD or MacOSX system\n(case-sensitive filesystem required). Cygwin will not be supported because of\nthe lack of case sensitiveness in the file system.\n\n\nSunshine!\n	Your OpenWrt Project\n	http://openwrt.org\n\n\n",
+			"file": "/D/testsites/fnfqmp/fnfqmp/README",
+			"file_size": 1220,
+			"file_write_time": 130218766594563617,
+			"settings":
+			{
+				"buffer_size": 1220,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 390.0,
+		"selected_items":
+		[
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"Set Syntax: HTML5"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"html5",
+				"Set Syntax: HTML5"
+			],
+			[
+				"coff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"jQ",
+				"Snippet: Google AJAX Libraries: jQuery"
+			],
+			[
+				"doc",
+				"Snippet: DOCTYPE HTML"
+			],
+			[
+				"s",
+				"Snippet: html"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"snip",
+				"Snippet: Class"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML5"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"coffee",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"scs",
+				"Set Syntax: SCSS"
+			],
+			[
+				"asp",
+				"Set Syntax: HTML (ASP)"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"Asp",
+				"Set Syntax: HTML (ASP)"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"as3",
+				"Set Syntax: ActionScript 3"
+			],
+			[
+				"jaa",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"for",
+				"FormatSQL: Format SQL statement"
+			],
+			[
+				"INST",
+				"Package Control: Install Package"
+			],
+			[
+				"INS",
+				"Package Control: Install Package"
+			],
+			[
+				"INS	",
+				"Package Control: Install Package"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"prett",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"js",
+				"Set Syntax: JSON"
+			],
+			[
+				"pow",
+				"Set Syntax: Powershell v2"
+			],
+			[
+				"VB",
+				"Set Syntax: VBScript"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			]
+		],
+		"width": 699.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Stuff/Mooserooster/Mooserooster2013/SiteFeeder/fountain.html",
+		"/C/Stuff/Mooserooster/Mooserooster2013/SiteFeeder/js/fountain.js",
+		"/C/Stuff/Mooserooster/Mooserooster2013/SiteFeeder/js/index.js",
+		"/C/Stuff/Mooserooster/Mooserooster2013/SiteFeeder/js/test.js",
+		"/C/Stuff/Mooserooster/Mooserooster2013/SiteFeeder/css/test.css",
+		"/C/Surge/Kiln/eValuator/eValuator.Web/Scripts/jquery.validate.js",
+		"/C/Stuff/Mooserooster/Mooserooster2013/SiteFeeder/fountain1.html",
+		"/C/Stuff/Mooserooster/Mooserooster2013/SiteFeeder/test.html",
+		"/C/Stuff/Mooserooster/Mooserooster2013/SiteFeeder/tweentest.html",
+		"/C/Stuff/Mooserooster/Mooserooster2013/SiteFeeder/index.html",
+		"/C/Stuff/Mooserooster/Mooserooster2013/SiteFeeder/3dtest.html",
+		"/C/Stuff/Mooserooster/Mooserooster2013/SiteFeeder/js/tweentest.coffee",
+		"/C/Stuff/Mooserooster/Mooserooster2013/SiteFeeder/js/3d.coffee",
+		"/C/Stuff/Mooserooster/Mooserooster2013/SiteFeeder/css/main.css",
+		"/C/Stuff/Mooserooster/Mooserooster2013/SiteFeeder/js/fountain.coffee",
+		"/C/Stuff/Mooserooster/Mooserooster2013/SiteFeeder/css/main.scss",
+		"/C/Stuff/Mooserooster/Mooserooster2013/SiteFeeder/js/index.coffee",
+		"/C/Sublime Text 2.0.1 x64/Data/Packages/CoffeeScript/CoffeeScript.sublime-build",
+		"/C/Surge/Kiln/DynamicBuilder/Db/Migrations/2.0.0.29 - Adds RequiresApproval to AllowableImage.sql",
+		"/C/Surge/Kiln/DynamicBuilder/Db/Migrations/1.1.0.06 - Add ImageTag Label Column.sql",
+		"/C/Surge/Kiln/DynamicBuilder/Db/Migrations/2.0.0.14 - Add AssetApproverRoleId to SiteApprovers.sql",
+		"/C/Users/Stevo/Desktop/RobStanfield.txt",
+		"/C/Surge/Kiln/DynamicBuilder/Db/Migrations/2.0.0.11 - Create AssetContentBlockRelationship.sql",
+		"/C/Surge/Kiln/DynamicBuilder/Db/Migrations/2.0.0.26 - Add AssetFilterAssetRelationship.sql",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Surge/Kiln/DynamicBuilder/Db/Migrations/2.0.0.05 - Added ThumbnailUrl Column.sql",
+		"/C/Surge/Kiln/DynamicBuilder/DynamicBuilder/Views/Admin/Settings.cshtml",
+		"/C/Surge/Kiln/DynamicBuilder/DynamicBuilder/Scripts/SiteSettings.coffee",
+		"/C/Surge/Kiln/DynamicBuilder/Db/Migrations/2.0.0.24 - Add Address Info To Site Settings.sql",
+		"/C/Surge/Kiln/DynamicBuilder/Db/Migrations/2.0.0.10 - Augment DynamicBuilderAsset with new properties.sql",
+		"/C/Surge/Kiln/DynamicBuilder/DynamicBuilder/Content/styles/Admin.scss",
+		"/C/Surge/Kiln/DynamicBuilder/DynamicBuilder.sublime-project",
+		"/C/Surge/Kiln/DynamicBuilder/.hgignore",
+		"/C/Surge/AZ Stuff/User Levels Widget/css/userlevelswidget.css",
+		"/C/Surge/AZ Stuff/User Levels Widget/js/userlevelswidget.js",
+		"/C/Surge/AZ Stuff/User Levels Widget/An-In-Depth-Review-of-the-jQuery-Widget-Factory-master/jquery.bulletchart.js",
+		"/C/Surge/AZ Stuff/User Levels Widget/userLevelsWidget.html",
+		"/C/Surge/SVN/AppZoneFeb2013/AzPublic/Controls/Profile.ascx",
+		"/C/Surge/AZ Stuff/AZ Notes.txt",
+		"/C/Surge/SVN/AppZoneFeb2013/AzPublic/JavaScript/other-validations.js",
+		"/C/Surge/SVN/AppZoneFeb2013/AzAdmin/EditUser.aspx.cs",
+		"/C/Surge/SVN/AppZoneFeb2013/AzAdmin/EditUser.aspx",
+		"/C/Surge/AZ Stuff/User Levels Widget/js/userLevelsWidget.js",
+		"/C/Surge/AZ Stuff/jQuery-Validation-Engine-master/README.md",
+		"/C/Surge/SVN/AppZoneFeb2013/AzMobile/CheckOut/CheckOutGuest.aspx",
+		"/C/Surge/SVN/AppZoneFeb2013/AzPublic/Template.master",
+		"/C/Surge/SVN/AppZoneFeb2013/AzPublic/JavaScript/json2.js",
+		"/C/Users/Stevo/Desktop/jQuery-Validation-Engine-master/README.md",
+		"/C/Users/Stevo/Desktop/vinyl kicks.txt",
+		"/C/Surge/SVN/Appliance Zone/AzPublic/Template.master",
+		"/C/Surge/SVN/AppZoneFeb2013/AzPublic/CheckOut/CheckOutShippingOptions.aspx",
+		"/C/Surge/SVN/AppZoneFeb2013/AzPublic/CheckOut/CheckOutFinal.aspx",
+		"/C/Surge/SVN/AppZoneFeb2013/AzPublic/Register.aspx",
+		"/C/Surge/SVN/AppZoneFeb2013/AzPublic/CheckOut/CheckOutCreditCard.aspx",
+		"/C/Surge/SVN/AppZoneFeb2013/AzPublic/CheckOut/CheckOutOld.aspx",
+		"/C/Surge/SVN/AppZoneFeb2013/AzPublic/MyAccount.aspx",
+		"/C/Surge/SVN/AppZoneFeb2013/AzPublic/App_Themes/Default/Default.css",
+		"/C/Surge/SVN/AppZoneFeb2013/AzPublic/CheckOut/CheckOutGuest.aspx",
+		"/C/Surge/SVN/AppZoneFeb2013/AzPublic/CheckOut/CheckOutCreditCard.aspx.cs",
+		"/C/Surge/SVN/AppZoneFeb2013/AzPublic/Controls/Profile.ascx.cs",
+		"/C/Surge/SVN/AppZoneFeb2013/AzPublic/Global.asax.cs",
+		"/C/Users/Stevo/Desktop/jQuery-Validation-Engine-master/js/contrib/other-validations.js",
+		"/C/Surge/SVN/Appliance Zone/AzPublic/MyAccount.aspx",
+		"/C/Surge/SVN/Appliance Zone/AzPublic/Register.aspx",
+		"/C/Surge/SVN/Appliance Zone/AzPublic/CheckOut/CheckOutGuest.aspx",
+		"/C/Surge/SVN/Appliance Zone/AzPublic/CheckOut/CheckOutGuest.aspx.cs",
+		"/C/Surge/SVN/Appliance Zone/AzMobile/AzMobile.csproj",
+		"/C/Surge/SVN/Appliance Zone/AzPublic/css/Admin.css",
+		"/C/Stuff/Clients/Gerry Pianta/Portfolio 2012/Site Feeder/scripts/portfolio.js",
+		"/C/Stuff/Clients/Gerry Pianta/Portfolio 2012/Site Feeder/portfolio/index.html",
+		"/C/Users/Stevo/Desktop/AZ 1230 Convo.txt",
+		"/C/Surge/SVN/Appliance Zone Forum/Skins/Classic/MasterTemplate/AdminMasterTemplate.ascx",
+		"/C/Users/Stevo/Desktop/bob.js",
+		"/C/Surge/SVN/Appliance Zone Forum/Skins/Classic/MasterTemplate/MasterTemplate.ascx",
+		"/C/Users/Stevo/Desktop/logo.html",
+		"/C/Surge/DB2 Stuff/Additional Asset Approval case #19177.txt",
+		"/C/Surge/Kiln/DynamicBuilder/Db/Migrations/2.0.0.09 - Build Tool Request.sql",
+		"/C/Surge/Kiln/DynamicBuilder/Db/Migrations/2.0.0.10 - Add ProductDetails to DynamicBuilderAsset.sql",
+		"/C/Surge/Kiln/DynamicBuilder/Db/Migrations/2.0.0.08 - Augment DynamicBuilderAsset with new properties.sql",
+		"/C/Surge/Kiln/DynamicBuilder/Db/Migrations/2.0.0.09 - Create DynamicBuilderProductDetails.sql",
+		"/C/Surge/Kiln/DynamicBuilder/Db/1.0/02 - GeneratedSchema.sql",
+		"/C/Surge/Kiln/DynamicBuilder/Scripts/psake.ps1",
+		"/C/Surge/Kiln/DynamicBuilder/Db/Migrations/2.0.0.04 - added acronym field to management area list editor.sql",
+		"/C/Surge/Kiln/DynamicBuilder/Db/Migrations/2.0.0.02 - Add Content Block Tables.sql",
+		"/C/Surge/Kiln/DynamicBuilder/db/Migrations/1.1.0.06 - Add ImageTag Label Column.sql",
+		"/C/Users/Stevo/Documents/WindowsPowerShell/Microsoft.PowerShell_profile.ps1",
+		"/C/Surge/Kiln/DynamicBuilder/Db/Migrations/1.1.0.07 - Add Content Block Tables.sql",
+		"/C/Users/Stevo/Desktop/CodeCamp 2012/Asynchronous Programming in .NET 4.5",
+		"/C/Users/Stevo/Desktop/Settings.vb",
+		"/C/Users/Stevo/Desktop/CodeCamp 2012/Beginning AJAX for MVC and jqGrid"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Surge\\SVN\\AppZoneFeb2013",
+			"C:\\Surge\\SVN\\Appliance Zone,",
+			"C:\\Surge\\SVN\\Appliance Zone,*.js,*.aspx,*.ascx",
+			"C:\\Surge\\SVN\\Appliance Zone"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"li",
+			"a",
+			"_self",
+			"context2d",
+			"			\n",
+			"\\",
+			"cake",
+			"\\",
+			"\n-",
+			" ALTER TABLE SiteSettings\n 	ADD AddressLine1 NVARCHAR(256) NULL,\n    ADD AddressLine2 NVARCHAR(256) NULL,\n    ADD City NVARCHAR(256) NULL,\n    ADD CountryId INTEGER NULL,\n    Phone NVARCHAR(64) NULL,\n  	StateProvince NVARCHAR(256) NULL,\n    ZipPostalCode NVARCHAR(256) NULL,",
+			"settings",
+			"setings",
+			"INSERT INTO Surge.ReferenceCodeConfiguration",
+			" \n",
+			"sizeMeterBar",
+			"options",
+			"createBars",
+			"createTickBar",
+			"109",
+			"shippingZip",
+			"register",
+			"Zip",
+			"zip",
+			"alert",
+			"billingZip",
+			"shippingZip",
+			"Zip",
+			"shippingCountryCode",
+			"preChatWindow",
+			"preChat",
+			"preChatWindow",
+			"$('prechatwindow').hide()",
+			"<script",
+			"json2",
+			"validateZipCode",
+			"funcCall",
+			"funccall",
+			"validateZip",
+			"inputBTN",
+			"GuestCheckout",
+			"here",
+			"brazil",
+			"validateZipCode",
+			"length",
+			"min",
+			"minL",
+			"minl",
+			"min",
+			"funcCall",
+			"checkUserName",
+			"fun",
+			"funCall[",
+			"funCall",
+			"funcall",
+			"funCall",
+			"funct",
+			"chara",
+			"phone",
+			"propagate",
+			"ShippingAddress",
+			"shipping",
+			"ShowHideLoader",
+			"validateZipCode",
+			"stateInternationa",
+			"stateInter",
+			"File",
+			"Files",
+			"mine",
+			"<<<<",
+			"<<<",
+			"<<",
+			"page",
+			"phone",
+			"Shipping",
+			"State",
+			"Shipping",
+			"registerBox",
+			"<br/>",
+			"<br />",
+			"br",
+			"<br/>",
+			"conflict",
+			"noConflict",
+			"AutoPostBack",
+			"AutoPostBack=\"true\"",
+			"AutoPostBack",
+			"DropDownList",
+			"                ",
+			"<asp:Label ID=\"lblStreet2\" runat=\"server\" associatedcontrolid=\"txtStreet2\" Text=\"<b>Apt. #, Suite #, or Business name</b><br />\" />\n                <asp:RegularExpressionValidator ID=\"regexValAddress2\" runat=\"server\" ControlToValidate=\"txtStreet2\"\n                    ValidationExpression=\"[a-zA-Z0-9\\s.\\',@#\\-/]+\" ErrorMessage=\"*!*\" BackColor=\"#FF0000\" ForeColor=\"#FFFFFF\"\n                    Font-Bold=\"true\" Display=\"Dynamic\" ValidationGroup=\"CreateUserWizard1\" SetFocusOnError=\"true\" />\n                <asp:TextBox Width=\"200px\" ID=\"txtStreet2\" runat=\"server\" />\n            </div>",
+			"jQuery",
+			"100px",
+			"Register",
+			"Product",
+			"Rel",
+			"DATETIME2",
+			"NOT NULL",
+			"CONSTRAINT",
+			"ResourceManagement.DynamicBuilderResource",
+			"FolderId",
+			"version"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" ",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 808,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								564,
+								564
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/index.coffee",
+					"settings":
+					{
+						"buffer_size": 213,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6,
+								6
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/main.scss",
+					"settings":
+					{
+						"buffer_size": 1651,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								354,
+								354
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 130.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "experiments.html",
+					"settings":
+					{
+						"buffer_size": 201,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								201,
+								201
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "js/experiments.js",
+					"settings":
+					{
+						"buffer_size": 32,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16,
+								16
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "3dtest.html",
+					"settings":
+					{
+						"buffer_size": 382,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								382,
+								382
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "js/fountain.js",
+					"settings":
+					{
+						"buffer_size": 1384,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								137,
+								137
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "fountain.html",
+					"settings":
+					{
+						"buffer_size": 580,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								580,
+								580
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/D/testsites/fnfqmp/fnfqmp/README",
+					"settings":
+					{
+						"buffer_size": 1220,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1165,
+								1165
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 172.0
+	},
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"fou",
+				"SiteFeeder/fountain.html"
+			],
+			[
+				"",
+				"SiteFeeder/js/fountain.js"
+			],
+			[
+				"3d",
+				"SiteFeeder/3dtest.html"
+			],
+			[
+				"fo",
+				"SiteFeeder/js/fountain.js"
+			],
+			[
+				"f",
+				"SiteFeeder/fountain1.html"
+			],
+			[
+				"main",
+				"css/main.css"
+			],
+			[
+				"sitestee",
+				"DynamicBuilder/Scripts/SiteSettings.coffee"
+			],
+			[
+				"admin.scss",
+				"DynamicBuilder/Content/styles/Admin.scss"
+			],
+			[
+				"settings.cs",
+				"DynamicBuilder/Views/Admin/Settings.cshtml"
+			],
+			[
+				"checkoutguest",
+				"AzMobile/CheckOut/CheckOutGuest.aspx"
+			],
+			[
+				"master",
+				"AzPublic/Template.master"
+			],
+			[
+				"ins",
+				"/C/Users/Stevo/Desktop/vinyl kicks.txt"
+			],
+			[
+				"default.css",
+				"AzPublic/App_Themes/Default/Default.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true
+}

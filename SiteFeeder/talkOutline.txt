@@ -1,0 +1,49 @@
+Talk outline:
+
+About me:
+
+	Animator
+		Maya, 3DS Max
+	Designer
+		Creative Suite, Traditional
+	Developer
+		AS3/Flash
+		JS/CoffeeScript
+		C#/.NET/MVC
+
+	How I went from artist to dev.
+
+	How does learning animation map to learning development? And if it maps one way, why can't it map to the other?
+		Shader networks
+		Hierarchies of objects
+		Skeleton systems/Inverse kinematics
+
+		Problem area? - Spline editors/ artists tools, because code may be too "bare metal".
+
+	Illusion of Life
+		Animation Principles
+		    *Squash and stretch
+		    	Perhaps this is a stylistic choice.
+		    	Can you make a "serious looking" s'n's
+		    *&Anticipation
+		    *Staging
+		    Straight ahead action and pose to pose
+		    *Follow through and overlapping action
+		    ***Slow in and slow out
+		    *Arcs
+		    *Secondary action
+		    ***Timing
+		    ??Exaggeration
+		    	Stylistic? Maybe not. Prove me wrong.
+		    Solid drawing
+		    	Ahahahahahahaha
+		    Appeal
+
+
+	Animator's survival Kit
+		Bouncing ball example
+
+	Tweenmax
+
+
+	
